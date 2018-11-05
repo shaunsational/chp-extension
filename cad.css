@@ -1,0 +1,10 @@
+#map_maker {
+	background:right center no-repeat url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABU0lEQVQ4T6XTwSvfcRzH8QcnhThoS7m47Y5S5rS5mEUbScaNHNy049pGlKbssuLkZq1Gaw4Sy8EFV1b+ABYrF7XViuitz0+/vu1b5F3fetf7/X5+3+/X+/0pcU8ryanvxBiaUnwXM1jJ5v8PMIVuvMYGIqcNH/AZb4ohWUAHZtGM08zfarCDUawWYlnAJj7hK15gLnUwhG/oRfhP8wB/UIsz/MbzBPiOB6jGISryAO/wHpc4QRdKsYyHqMIvlOcBWvEPoXoUF48QXQygD+15gCh6i0ZcZEQswx5G8CMPEKJGcA3TGcDHpE8IeWPFW4hZQ+FYUaxrEOspsx+TaEAP5pNO10dSsCgYxmOEFktpC5VYxBPsYxvRTRzVDSDWcpB2HwKGPcNC8l9iK/ktqfgR/hY6mEA9XmXmjuTzNFJx6At+YjwA8R2nQ7nL2zxCXd5rvDXoCpJ8PxFbziVpAAAAAElFTkSuQmCC);
+	color:#2371fb;
+	cursor: crosshair;
+	padding:0 20px 0 0;
+}
+
+#map {
+	display: none;
+}
